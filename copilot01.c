@@ -35,7 +35,6 @@ void imprimirAlimento(Alimento alim) {
     printf("Unidade: %s\n", alim.undAli);
     printf("Calorias: %.2f kcal\n", alim.kcalAli);
 }
-
 int main() {
     Alimento meuAlim;
 
